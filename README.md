@@ -28,15 +28,6 @@ An end-to-end data analysis project using Python to uncover sales trends and cus
 
 <hr/>
 
-<h2>📂 Project Structure</h2>
-
-<pre>
-Online-Book-Store-Analysis-Project/
-├── Online_Book_Store_Analysis.ipynb     # Main analysis notebook
-├── data/
-│   └── online_book_store_data.xlsx      # Source dataset
-└── README.md                            # Project documentation
-</pre>
 
 <hr/>
 
