@@ -1,47 +1,74 @@
-# 📚 Online Book Store Analysis Project
+<h1 align="center">📚 Online Book Store Analysis Project</h1>
 
-This project involves data analysis of an Online Book Store using Python libraries like Pandas, Matplotlib, and Seaborn to derive business insights and visualize sales and customer trends.
+<p align="center">
+An end-to-end data analysis project using Python to uncover sales trends and customer insights from an online book store.
+</p>
+
+<hr/>
+
+<h2>🔍 Project Objectives</h2>
+
+<ul>
+  <li>Analyze sales performance by year and month</li>
+  <li>Identify top-selling book categories</li>
+  <li>Understand customer behavior and preferences</li>
+  <li>Detect seasonal patterns and trends</li>
+  <li>Visualize data with meaningful charts</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Tools & Technologies</h2>
+
+<ul>
+  <li><b>Language:</b> Python</li>
+  <li><b>Libraries:</b> Pandas, Matplotlib, Seaborn</li>
+  <li><b>IDE:</b> Jupyter Notebook</li>
+</ul>
+
+<hr/>
+
+<h2>📂 Project Structure</h2>
+
+<pre>
+Online-Book-Store-Analysis-Project/
+├── Online_Book_Store_Analysis.ipynb     # Main analysis notebook
+├── data/
+│   └── online_book_store_data.xlsx      # Source dataset
+└── README.md                            # Project documentation
+</pre>
+
+<hr/>
+
+<h2>📊 Key Insights</h2>
+
+<ul>
+  <li>Annual sales show steady growth or fluctuations</li>
+  <li>High-performing categories generate majority of revenue</li>
+  <li>Monthly sales reveal seasonal buying patterns</li>
+  <li>Customer trends help target better promotions</li>
+</ul>
+
+<hr/>
+
+<h2>📈 Visualizations Used</h2>
+
+<ul>
+  <li>Bar charts for yearly revenue comparison</li>
+  <li>Pie charts for category-wise sales breakdown</li>
+  <li>Line plots for monthly trend analysis</li>
+  <li>Heatmaps for data correlation overview</li>
+</ul>
+
+<hr/>
 
 
 
-## 🔍 Objectives
+<h2>🙋‍♂️ Author</h2>
 
-- Analyze sales performance by year and month
-- Identify top-selling book categories
-- Understand customer behavior and preferences
-- Detect seasonal patterns and trends
-- Visualize data with meaningful charts
+<p><b>Arvind Goswami</b></p>
+<p>📧 arvindgoswami21@gmail.com</p>
+<p>📌 Aspiring Data Analyst | Python • SQL • Power BI • Excel</p>
 
+<hr/>
 
-
-🛠️ Tools & Technologies
-
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-
-
-📊 Key Insights
-
-- Annual sales trends show business performance over time
-- Certain months show peaks indicating seasonal demand
-- Some categories outperform others in revenue
-- Data visualizations help understand patterns clearly
-
-
-
- 📈 Visuals Used
-
-- Bar charts for yearly sales
-- Pie charts for category-wise distribution
-- Line plots for monthly trends
-- Heatmaps for data correlation
-
-
-🙋‍♂️ Author
-Arvind Goswami
-📧 arvindgoswami21@gmail.com
-📌 Aspiring Data Analyst | Skills: Python, SQL, Power BI, Excel
